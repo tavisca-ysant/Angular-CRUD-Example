@@ -1,0 +1,1 @@
+A simple angular application to do CRUD operations.
