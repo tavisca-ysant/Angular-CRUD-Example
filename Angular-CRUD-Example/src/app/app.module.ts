@@ -6,7 +6,7 @@ import { CustomerComponent } from './customer/customer.component';
 import { CustomerListComponent } from './customer-list/customer-list.component';
 import {AngularFireModule} from '@angular/fire';
 import {AngularFireDatabaseModule} from '@angular/fire/database'
-import {environment} from '../environments/environment';
+import {environment} from '../environments/environment.prod';
 import {CustomerService} from './shared/customer.service';
 
 @NgModule({
